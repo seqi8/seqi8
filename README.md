@@ -14,7 +14,7 @@
 备用地址：http://sq8sq8.com
 ```
 
-### 务必收藏下面永久地址发布页
+### ☆☆☆务必收藏下面永久地址发布页☆☆☆
 ```javasript
 https://github.com/seqi8/seqi8/
 

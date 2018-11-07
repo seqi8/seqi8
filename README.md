@@ -5,7 +5,7 @@
 ### 网址找回邮箱：seqi8dizhi@gmail.com 或发任意内容到邮箱可立即获得色奇吧最新地址
 
 ```javasript
-最新地址一：http://sq8666.top
+最新地址一：http://s8666.top
 
 最新地址二：http://sq8520.com
 
